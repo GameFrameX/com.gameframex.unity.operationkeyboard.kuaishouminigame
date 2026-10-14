@@ -1,0 +1,27 @@
+{
+    "name": "GameFrameX.OperationKeyboard.KuaiShouMiniGame.Runtime",
+    "rootNamespace": "GameFrameX.OperationKeyboard.KuaiShouMiniGame.Runtime",
+    "references": [
+        "GameFrameX.Runtime",
+        "GameFrameX.OperationKeyboard.Runtime",
+        "kuaishou.runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "kuaishou-plugin.runtime.dll",
+        "kuaishou-plugin.runtime.editor.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.kuaishou.minigame",
+            "expression": "",
+            "define": "ENABLE_KUAISHOU_MINI_GAME_OPERATIONKEYBOARD"
+        }
+    ],
+    "noEngineReferences": false
+}
