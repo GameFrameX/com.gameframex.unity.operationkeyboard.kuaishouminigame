@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/gameframex/com.gameframex.unity.operationkeyboard.kuaishouminigame/compare/1.0.1...1.0.2) (2026-11-10)
+
+
+### Bug Fixes
+
+* **operationkeyboard.kuaishouminigame:** 添加完整 link.xml 防代码裁剪保护 ([eeb1599](https://github.com/gameframex/com.gameframex.unity.operationkeyboard.kuaishouminigame/commit/eeb1599924d2096ffe596d53a64d90ecb5e9bfe2))
+
 ## [1.0.1](https://github.com/gameframex/com.gameframex.unity.operationkeyboard.kuaishouminigame/compare/1.0.0...1.0.1) (2026-10-15)
 
 
